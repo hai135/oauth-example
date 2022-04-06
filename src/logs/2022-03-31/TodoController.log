@@ -1,0 +1,29 @@
+[2022-03-31 10:42:33] [info]: 	Get all todos
+[2022-03-31 10:53:49] [info]: 	Get all todos
+[2022-03-31 10:55:10] [info]: 	Get all todos
+[2022-03-31 10:58:16] [info]: 	create todo: {"title":"abc","completed":"true"}
+[2022-03-31 10:59:03] [info]: 	create todo: {"title":"abc","completed":"true","userId":5}
+[2022-03-31 10:59:28] [info]: 	create todo: {"title":"abcd","completed":"false","userId":5}
+[2022-03-31 14:52:46] [info]: 	Get all todos
+[2022-03-31 14:52:54] [info]: 	Get all todos
+[2022-03-31 14:53:55] [info]: 	Get all todos
+[2022-03-31 14:54:16] [info]: 	create todo: {"title":"abcd","completed":"false","userId":5}
+[2022-03-31 14:54:25] [info]: 	Get all todos
+[2022-03-31 15:13:27] [info]: 	Get all todos
+[2022-03-31 15:23:32] [info]: 	Get all todos
+[2022-03-31 15:25:52] [info]: 	Get all todos
+[2022-03-31 15:26:28] [info]: 	Get all todos
+[2022-03-31 15:30:56] [info]: 	Get all todos
+[2022-03-31 15:35:39] [info]: 	Get all todos
+[2022-03-31 15:37:22] [info]: 	Get all todos
+[2022-03-31 15:38:14] [info]: 	Get all todos
+[2022-03-31 15:50:05] [info]: 	create todo: {"title":"abcd","completed":"false"}
+[2022-03-31 16:06:15] [info]: 	Get all todos
+[2022-03-31 16:11:26] [info]: 	create todo: {"title":"abcd","completed":"false"}
+[2022-03-31 16:12:05] [info]: 	create todo: {"title":"user id 4 create","completed":"false"}
+[2022-03-31 16:12:24] [info]: 	create todo: {"title":"user id 6 create","completed":"false"}
+[2022-03-31 16:24:20] [info]: 	Get all todos
+[2022-03-31 16:31:24] [info]: 	Get all todos
+[2022-03-31 16:34:51] [info]: 	Get all todos
+[2022-03-31 16:36:02] [info]: 	Get all todos
+[2022-03-31 16:36:47] [info]: 	Get all todos

@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "src/logs/%DATE%/.124cb784f7f19115faa14ef58e48d7777c099c5e-audit.json",
+    "files": [
+        {
+            "date": 1648614785030,
+            "name": "src/logs/2022-03-30/TodoController.log",
+            "hash": "5c22e6c98d6823644b832ff3653ab09d"
+        },
+        {
+            "date": 1648698153686,
+            "name": "src/logs/2022-03-31/TodoController.log",
+            "hash": "70e6802585597aed44dc4bf010810403"
+        },
+        {
+            "date": 1648781330595,
+            "name": "src/logs/2022-04-01/TodoController.log",
+            "hash": "0029d83dd1b2b6f3cae1a0b167dca8cb"
+        },
+        {
+            "date": 1649039552906,
+            "name": "src/logs/2022-04-04/TodoController.log",
+            "hash": "fa399ef4b2273ca8053705f7eb85b9f5"
+        }
+    ],
+    "hashType": "md5"
+}
